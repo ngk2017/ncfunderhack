@@ -1,4 +1,4 @@
-Benji Jones' notes: 
+Notes from practitioners notes: 
 
 
 We want the equivalent of an invest now button that folks can put on their website then tools that can
