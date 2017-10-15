@@ -76,7 +76,7 @@ This is a pretty lofty goal, so it's important to focus on what this "hackathon"
 
 I contacted Dazza Greenwood of MIT Media Lab, who advised me to find my local resources and ask them to help me. I was skeptical. "Easy for you to say, Dazza," I replied. "This is not MIT or NYC." 
 
-No, it's not. It's Research Triangle Park, and it hosts a tremendous number of smart people who know how to get things done. Dazza brought some of them to my attention, particularly our Code4America groups, which operate regular Civic Hacking Meetup groups. Here, things get done, with a little less hoopla and a little more focus on the work. I gathered up a team of lawyer-tech-problem-solvers willing to help me, including Molly Hanes, Jason Cross, David Chambers and Stephen Palley.
+No, it's not. It's Research Triangle Park, and it hosts a tremendous number of smart people who know how to get things done. Dazza brought some of them to my attention, particularly our Code4America groups, which operate regular Civic Hacking Meetup groups. Here, things get done, with a little less hoopla and more focus on the work. I gathered up a team of lawyer-tech-problem-solvers willing to help me, including Molly Hanes, Jason Cross, David Chambers and Stephen Palley.
 
 
 Code4America and Legal Hackers both offer some frameworks for putting together a work plan for a hackathon. (links) These served as great inspiration for our team in "how to" put together our work product outcome.
