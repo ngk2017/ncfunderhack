@@ -24,6 +24,18 @@ As we develop a usable way to deliver applied blockchain solutions, we are also 
 The contents of this repository are what our group collected and created over the course of a month investigating how to make crowdfunding and blockchain work in local symbiosis. 
 
 
+## North Carolina is the bomb!
+
+
+*Research Triangle Park* is a good place to commercialize blockchain solutions for a number of reasons:
+
+- emerging tech innovation track record
+- tech-educated workforce
+- access to subject matter experts in multiple verticals 
+- growing economy
+- large “feedstock” for new companies that will commercialize transformative applied solutions combining blockchain and other emerging tech tools
+
+
 #### The backstory 
 
 
@@ -38,6 +50,20 @@ Despite NC PACES Act enabling rules in April 2017 to bring SEC 147A functionalit
 
 What we can fix: there exist few data aggregation tools that make an inexpensive, automated process feasible. A cheap, reliable tool should have the effect of opening up the ecosystem to new kinds of investments. 
 
+
+### Crowdfunding: a necessary first step
+
+Crowdfunding is the underlying dependency for the majority of long-tail, inclusive blockchain use cases. Blockchain empowered inexpensive, portable data aggregation tools to support financial services for populations previously excluded from the economy because they could not get a bank account or access growth capital. (See BanQu as early success providing services to the unbanked). In the United States, the issue is multifaceted. Sophisticated tools exist but are out of reach for most of the market. These tools, especially data aggregation tools, are not available to the majority of the market. This means missed opportunity for growth for the entire economy. Intrastate crowdfunding is an attempt by the US to bring new financial services and capital access to small businesses and entrepreneurs. 
+
+Blockchain is a crowdfunding liquidity machine. Recent crowdfunding raises by blockchain based companies show that it is possible to harness financial technology to provide inexpensive, quick liquidity to startup businesses. However, lack of regulatory tools mean that blockchain based crowdfunding is currently risky and of limited utility for small businesses. 
+
+*NCFunder.com* is a nonprofit dedicated to bringing the tools of financial technology to community development, small businesses and social entrepreneurs. Beginning in 2018, NCFunder will operate a NCFunding Portal that features transformative social entrepreneurship as well as tools to help founders and operators of crowdfunded entities succeed.  
+
+*Legal tools.* Part of the problem in lack of access to capital is lack of access to legal tools for small and startup businesses. Y-Combinator addressed this issue by creating a set of uniform startup documents that supported venture capital investor needs, SAFE (Simple Agreement for Future Equity). The SAFE documents stimulated the market for startups by making it easier to set up a bankable company. SAFE documents have been modified for the blockchain space as SAFT (Simple Agreement for Future Tokens). This functionality will also support intrastate crowdfunding, with documents tailored to individual states’ securities laws. By careful state-by-state articulation, it is possible to create a multi-jurisdiction, networked model for aggregating intrastate crowdfunding. This is a logical structure in a federal system, comparable to voting. 
+
+North Carolina has a strategic advantage in that it was the first adopter of SEC Exemption 147A, which loosened the restrictions on internet advertising for crowdfunding. However, North Carolina enacted its exemption NC PACES, with significant limitations on fundraising amount and on revenue for funding portals. The solution to generating value on this set of facts is NCFunder. 
+
+*Long term outcome of NCFunder is to contribute to the global effort to bring down the marginal cost of financial services for small and medium enterprises and bring diversity to markets.*  SMEs comprise 80% of the global market, and their finance needs are largely unmet.
 
 #### Define desired outcome: stimulate crowdfunding+blockchain in North Carolina.   	
 
@@ -109,31 +135,5 @@ We want the equivalent of an invest now button that folks can put on their websi
 #### Users and roles
 
 
-## Blockchain technology has matured sufficiently so that we can begin to apply it to real life situations in field experiments in order to prove its value as a solutions catalyst. 
-
-
-## North Carolina is the bomb!
-
-
-*Research Triangle Park* is a good place to commercialize blockchain solutions for a number of reasons:
-
-- emerging tech innovation track record
-- tech-educated workforce
-- access to subject matter experts in multiple verticals 
-- growing economy
-- large “feedstock” for new companies that will commercialize transformative applied solutions combining blockchain and other emerging tech tools
-
-### Crowdfunding: a necessary first step
-
-Crowdfunding is the underlying dependency for the majority of long-tail, inclusive blockchain use cases. Blockchain empowered inexpensive, portable data aggregation tools to support financial services for populations previously excluded from the economy because they could not get a bank account or access growth capital. (See BanQu as early success providing services to the unbanked). In the United States, the issue is multifaceted. Sophisticated tools exist but are out of reach for most of the market. These tools, especially data aggregation tools, are not available to the majority of the market. This means missed opportunity for growth for the entire economy. Intrastate crowdfunding is an attempt by the US to bring new financial services and capital access to small businesses and entrepreneurs. 
-
-Blockchain is a crowdfunding liquidity machine. Recent crowdfunding raises by blockchain based companies show that it is possible to harness financial technology to provide inexpensive, quick liquidity to startup businesses. However, lack of regulatory tools mean that blockchain based crowdfunding is currently risky and of limited utility for small businesses. 
-
-*NCFunder.com* is a nonprofit dedicated to bringing the tools of financial technology to community development, small businesses and social entrepreneurs. Beginning in 2018, NCFunder will operate a NCFunding Portal that features transformative social entrepreneurship as well as tools to help founders and operators of crowdfunded entities succeed.  
-
-*Legal tools.* Part of the problem in lack of access to capital is lack of access to legal tools for small and startup businesses. Y-Combinator addressed this issue by creating a set of uniform startup documents that supported venture capital investor needs, SAFE (Simple Agreement for Future Equity). The SAFE documents stimulated the market for startups by making it easier to set up a bankable company. SAFE documents have been modified for the blockchain space as SAFT (Simple Agreement for Future Tokens). This functionality will also support intrastate crowdfunding, with documents tailored to individual states’ securities laws. By careful state-by-state articulation, it is possible to create a multi-jurisdiction, networked model for aggregating intrastate crowdfunding. This is a logical structure in a federal system, comparable to voting. 
-
-North Carolina has a strategic advantage in that it was the first adopter of SEC Exemption 147A, which loosened the restrictions on internet advertising for crowdfunding. However, North Carolina enacted its exemption NC PACES, with significant limitations on fundraising amount and on revenue for funding portals. The solution to generating value on this set of facts is NCFunder. 
-
-*Long term outcome of NCFunder is to contribute to the global effort to bring down the marginal cost of financial services for small and medium enterprises and bring diversity to markets.*  SMEs comprise 80% of the global market, and their finance needs are largely unmet.
+//TO DO
 
