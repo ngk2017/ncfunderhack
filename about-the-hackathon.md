@@ -71,8 +71,8 @@ Refining the output for our hackathon meant scoping a digestible bit during the 
 
 
 - Open-source repo devoted to crowdfunding + blockchain utilities
-- First-person discussion of how to approach a legal hacking problem -- this README
-- Legal research resources to get lawyers and developers on same page
+- First-person discussion of how to approach a legal hacking problem
+- Legal research resources to get lawyers, businesspeople, investors and developers on same page
 - Machine readable NC crowdfunding legal exemplar forms
 - Draft whitepaper on legal+policy reasons for intrastate blockchain crowdfunding 
 - Tech exemplars
@@ -110,6 +110,10 @@ We want the equivalent of an invest now button that folks can put on their websi
 
 
 ## Blockchain technology has matured sufficiently so that we can begin to apply it to real life situations in field experiments in order to prove its value as a solutions catalyst. 
+
+
+## North Carolina is the bomb!
+
 
 *Research Triangle Park* is a good place to commercialize blockchain solutions for a number of reasons:
 
