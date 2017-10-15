@@ -31,7 +31,7 @@ I have had a bee in my bonnet about intrastate crowdfunding and blockchain since
 
 - I'm not talking about coin offerings or token sales. 
 - I'm talking about *legal operations*, tech solutions that make local potential for blockchain scalable. 
-- I'm talking about automating the processes and aggregating the data that keeps capital from flowing to main street, both in traditional markets and in cryptocurrencies. 
+- I'm talking about automating the processes and aggregating the data that keeps capital from flowing to main street, unblocking the system, both in traditional markets and in cryptocurrencies. 
 
 
 Despite NC PACES Act enabling rules in April 2017 to bring SEC 147A functionality to life, there existed many barriers to use of the new rule. First were the limitations put in place at the state level. Fundraising limits are low. This low dollar amount means less ROI for a fairly complex process. Carve-outs prevent crowdfunding in some high-value verticals, creating further disincentives. These regulatory issues are outside the scope of the hackathon. 
