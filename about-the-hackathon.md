@@ -63,7 +63,6 @@ Blockchain is a crowdfunding liquidity machine. Recent crowdfunding raises by bl
 
 North Carolina has a strategic advantage in that it was the first adopter of SEC Exemption 147A, which loosened the restrictions on internet advertising for crowdfunding. However, North Carolina enacted its exemption NC PACES, with significant limitations on fundraising amount and on revenue for funding portals. The solution to generating value on this set of facts must be simple, nonproprietary and cheap, serving everyone in the ecosystem. 
 
-*Long term outcome of NCFunder is to contribute to the global effort to bring down the marginal cost of financial services for small and medium enterprises and bring diversity to markets.*  SMEs comprise 80% of the global market, and their finance needs are largely unmet.
 
 #### Define desired outcome: stimulate crowdfunding+blockchain in North Carolina.   	
 
