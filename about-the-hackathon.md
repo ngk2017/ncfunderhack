@@ -70,7 +70,7 @@ North Carolina has a strategic advantage in that it was the first adopter of SEC
 This is a pretty lofty goal, so it's important to focus on what this "hackathon" is going to do. Hackathons are new to Southern lawyers, and most models online tend to advise about holding a hackathon as a conference rather than as a low-cost way to achieve a community result. That wasn't what our team of was into. We needed a way to "hack like cockroaches" in order for it to be sustainable and repeatable by others. 
 
 
-**Looks like a job for Legal Hackers!** 
+**Looks like a job for Legal Hackers** 
 
 Legal Hackers are an informal group of lawyers and others solving legal problems with technology. I'vw attended their global annual meeting for the past couple years. Getting stuff done.  https://legalhackers.org/ 
 
