@@ -72,6 +72,8 @@ This is a pretty lofty goal, so it's important to focus on what this "hackathon"
 
 **Looks like a job for Legal Hackers!** 
 
+Legal Hackers are an informal group of lawyers and others solving legal problems with technology. https://legalhackers.org/ 
+
 
 I contacted Dazza Greenwood of MIT Media Lab, who advised me to find my local resources and ask them to help me. I was skeptical. "Easy for you to say, Dazza," I replied. "This is not MIT or NYC." 
 
