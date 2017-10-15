@@ -13,4 +13,4 @@ This repository is for hacking open source smart contract tools to support intra
 - Organizations forms (creating machine-readable, parameterizable forms)
 - Crowdfunding forms (creating machine readable, parameterizable forms)
 
-
+# This is not legal advice, nor is anything in this repository intended as legal advice. If you need legal advice, contact an attorney in your jurisdiction. 
