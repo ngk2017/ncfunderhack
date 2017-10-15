@@ -1,5 +1,6 @@
 # Legal resources for NC crowdfunding
 
-- PACES
+The best resource is NC Secretary of state's website, which includes links, FAQs and process links.
 
-- Regulations
+Secretary of state: https://www.sosnc.gov/sec/Crowdfunding.aspx 
+
