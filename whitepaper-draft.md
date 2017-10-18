@@ -146,10 +146,7 @@ Strengthening framewroks, including tech strategy http://siteresources.worldbank
 
 Seminal US study on access to justice gap, old news: http://www.americanbarfoundation.org/uploads/cms/documents/access_across_america_first_report_of_the_civil_justice_infrastructure_mapping_project.pdf 
 
-Cuts to funding and increasing gap: 
- 
-Legal engineers in UK, Australia, Toronto, US, Asia 
- 
+
 NC Legal Aid issues 
 https://midlaw.wordpress.com/2017/03/16/legal-aid-is-infrastructure-not-welfare-got-to-have-bridges-so-traffic-can-move/ 
 https://medium.com/the-algorithmic-society/re-design-thinking-legal-aid-876d76ff7057 
