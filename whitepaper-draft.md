@@ -1,14 +1,18 @@
 //to do: 
 
-Need to update with recent scholarship from US Treasury, investors on business structures.
+## NOTE: This MUST be done in strict IRAC (Issue-Rule-Analysis-Conclusion) format!!
+
+Starter outline:
+
+NCFunder/Legal Hackers/Fintech4good
+
+By: Molly, David, Nina, etc
+
+Need to update with recent scholarship from US Treasury, publications on on business structures.
 
 
-Nina Kilbride
+Re: Intrastate crowdfunding 
 
-Re: Intrastate crowdfunding opportunity or
-“Jurisdiction-sensitive entitlement interest widget.” 
-
-TLDR: The law in NC changed to enable a Local Public Offering via the internet of UCC Article 8 Security. The legal framework exists to operate UCC Article 8 securities in nearly every state, but they were preempted by US securities law since 1933. New crowdfunding models mean Article 8 Securities, and the corresponding legal frameworks, are relevant again, but there are no serious preexisting legal actors in the space. IBM wants to promote NC startups and wants to do a project with us. This one is a good fit. The Secretary of State promised press coverage when the models go live.  Large potential network effects in startups, small business and token community.
 
 _____________________
 SEC Guidance: 
@@ -28,13 +32,6 @@ http://www.sosnc.gov/legal/pdf/3-2-17%20.2100final-consolidated.pdf
 UCC Article 8 https://www.law.cornell.edu/ucc/8 
 
 
-
-
-## NOTE: This MUST be done in strict IRAC (Issue-Rule-Analysis-Conclusion) format!!
-
-Starter outline: 
-NCFunder/Legal Hackers/Fintech4good
-By: Molly, David, Nina, 
 
 Intro to crowdfunding and statement of problem (preferably 3-4 paragraphs)
 	pre-SEC (why did the SEC have to exist?)
