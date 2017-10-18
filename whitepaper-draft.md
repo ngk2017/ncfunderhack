@@ -42,11 +42,13 @@ Intro to crowdfunding and statement of problem (preferably 3-4 paragraphs)
 		JOBS
 			Problems
 		SEC 147A
-			Problems (the reason for the hackathon)
+			Problems 
+			Data tools
+			Education
 			Not very liquid once the stock has been made. This creates a market barrier for traditional investment. The crowdfunding ecosystem has to operate lean in order to operate sustainably. 
 			
 			
-Deep analysis of why the lack of tech tools to support crowdfunding are a high-impact project. NGK will dump a lot of links + argument flow
+Deep analysis of why the lack of tech tools to support crowdfunding are a high-impact project. 
 
 Legal Analysis
 
@@ -65,24 +67,34 @@ Many functional problems with crowdfunding stem from compliance burden in a mark
 Blockchain discussion
 
 Roles: 
+
 Define and describe actor in context
+
 Problem/solution with respect to outcome of hackathon
 Issuer
+
 Individual investor
+
 Institutional Investor
-Trust Agent Broker-Dealer, Bank, Attorney
-Money transmitter 
+
+Trust Agent: Broker-Dealer, Bank, Attorney
+
+Money transmitter
+
 Funding portal
+
 SEC
+
 State Regulator
 
-
 Defining the functionality of the tech solution
+
 		Objects
 		Functions	
 		APIs
 
 Repeat blockchain rationale in context of solution.
+
 	What kind of blockchain do we need? 
 		Depends. How do you want to do business? 
 		
@@ -102,11 +114,13 @@ Diversified small business finance is enabled by blockchain.
 
 Asset vaulting (especially invoices and other trade receivables), is a key to opening up small business finance needs. Before blockchain, vaulting and perfection rules were prohibitively expensive for SME to fix their assets for easily lending. Blockchain plus fintech will address this shortfall, meeting a manifest need the incumbents ignore. 
 
-Globally, 80% of SME finance is unmet. McKinsey estimates the unmet annual need is $2.1T in emerging markets.http://mckinseyonsociety.com/two-trillion-and-counting/ 
+Globally, 80% of SME finance is unmet.http://mckinseyonsociety.com/two-trillion-and-counting/ 
+
+SMEs are more often women, minorities or marginalized groups. 
 
 IFC https://www.ifc.org/wps/wcm/connect/4d6e6400416896c09494b79e78015671/Closing+the+Credit+Gap+Report-FinalLatest.pdf?MOD=AJPERES 
 
-Women are the entry into this market. Women face traditional hurdles to accessing business financing at a greater rate than men.  
+ Women face traditional hurdles to accessing business financing at a greater rate than men.  
 http://tenentrepreneurs.org/wp-content/uploads/2017/03/UntappedUnicornsFinal-1.pdf
 
 SME Finance Forum, Nov 1-3 2017 
