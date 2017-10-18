@@ -46,7 +46,9 @@ Intro to crowdfunding and statement of problem (preferably 3-4 paragraphs)
 			Problems
 		SEC 147A
 			Problems (the reason for the hackathon)
-
+			Not very liquid once the stock has been made. This creates a market barrier for traditional investment. The crowdfunding ecosystem has to operate lean in order to operate sustainably. 
+			
+			
 Deep analysis of why the lack of tech tools to support crowdfunding are a high-impact project. NGK will dump a lot of links + argument flow
 
 Legal Analysis
@@ -123,8 +125,6 @@ https://www.ifc.org/wps/wcm/connect/4d6e6400416896c09494b79e78015671/Closing+the
 Non-bank financing for SMEs. The key is data aggregation, per US Government. http://www.mbda.gov/sites/default/files/webinar_fundation_slides_082016.pdf 
 
 
-https://hbr.org/2017/03/what-blockchain-means-for-the-sharing-economy 
-
 Law as infrastructure 
 
 https://www.imf.org/external/pubs/ft/fsa/eng/pdf/ch09.pdf 
@@ -138,10 +138,9 @@ Cuts to funding and increasing gap:
  
 Legal engineers in UK, Australia, Toronto, US, Asia 
  
-Productize legal services 
-Need some Canada/Other international cites, 
+NC Legal Aid issues 
 https://midlaw.wordpress.com/2017/03/16/legal-aid-is-infrastructure-not-welfare-got-to-have-bridges-so-traffic-can-move/ 
 https://medium.com/the-algorithmic-society/re-design-thinking-legal-aid-876d76ff7057 
 
 
-WeFunder SAFE does not address the idea of single-equity raise, no further raise or liquidity injection needed. This is perfect for NC Crowdfunding. http://www.virginialawreview.org/volumes/content/crowdfunding-and-not-so-safe-safe 
+WeFunder SAFE does not address the idea of single-equity raise, no further raise or liquidity injection needed. This is  relevantfor NC Crowdfunding. http://www.virginialawreview.org/volumes/content/crowdfunding-and-not-so-safe-safe 
