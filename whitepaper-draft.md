@@ -87,8 +87,8 @@ Defining the functionality of the tech solution
 
 Repeat blockchain rationale in context of solution.
 	What kind of blockchain do we need? 
-		How to answer that question
-		Hyperledger Burrow
+		Depends. How do you want to do business? 
+		
 	What do we need to put on the blockchain
 		How to answer that question
 		Artifacts we identify from the statute
@@ -101,7 +101,7 @@ Solutions design diagrams
 Plan of work
 
 
-SME Finance is enabled by blockchain.
+Diversified small business finance is enabled by blockchain.
 
 Asset vaulting (especially invoices and other trade receivables), is a key to opening up small business finance needs. Before blockchain, vaulting and perfection rules were prohibitively expensive for SME to fix their assets for easily lending. Blockchain plus fintech will address this shortfall, meeting a manifest need the incumbents ignore. 
 
@@ -120,9 +120,10 @@ Approval rates of small loans much lower than larger.  Biggest gap in loans for 
 
 https://www.newyorkfed.org/smallbusiness/index.html 
 
-https://www.ifc.org/wps/wcm/connect/4d6e6400416896c09494b79e78015671/Closing+the+Credit+Gap+Report-FinalLatest.pdf?MOD=AJPERES P. 18 shows geographic distribution, signigicant opportunity in developed nations as well as developing. 
+https://www.ifc.org/wps/wcm/connect/4d6e6400416896c09494b79e78015671/Closing+the+Credit+Gap+Report-FinalLatest.pdf?MOD=AJPERES 
 
-Non-bank financing for SMEs. The key is data aggregation, per US Government. http://www.mbda.gov/sites/default/files/webinar_fundation_slides_082016.pdf 
+
+Non-bank financing for SMEs. The key is data aggregation, (but non-OS solutions not sustaibable). http://www.mbda.gov/sites/default/files/webinar_fundation_slides_082016.pdf 
 
 
 Law as infrastructure 
