@@ -1,6 +1,123 @@
 //to do: 
 
-## NOTE: This MUST be done in strict IRAC (Issue-Rule-Analysis-Conclusion) format!!
+# Crowdfunding and Blockchain Technology: Forging the Missing Link for Small Business Finance
+
+
+Even as technology advances for legal and financial processes in capital market, main street is forced to conduct much of its business the old-fashioned, slow, expensive way. Crowdfunding's rise and stall brings into focus the long-standing lack of inclusive financial services for small businesses.
+
+
+## Small business has always had a hard time accessing capital. Crowdfunding is the solutions catalyst.  
+
+
+- Small businesses make up 80% of commercial entities.
+- 80% of small businesses lack access to growth capital, for a known gap of $2.1 trillion.
+- The access to capital gap disproportionately affects women and minorities, who own ____% of small businesses.
+- The biggest gap in access to capital is for loans less than $1 million.
+- In North Carolina, this means nearly 1 million employers and half of the state's workers are in companies whose growth is hamstrung by lack of tools. 
+- Data aggregation and fintech tools that help large businesses reduce loan and legal costs ____% do not exist for small businesses.
+- 31 US States have enacted intrastate crowdfunding to stimulate access to capital for small businesses.
+- Simultaneously, financial technology has developed secure ways to easily issue, store, prove and manage liquidity in crowdfunded companies.
+- While over $2B has been crowdfunded in 2017 by cryptocurrency companies with little regulatory guidance, small businesses require risk mitigation not currently available for blockchain companies. 
+- Crowdfunding is expected to grow ___ from 2017-2020.
+- Crowdfunding expenses are typically 8-10%. 
+
+
+## Blockchain+crowdfunding is the catalyst for inclusion of small business in global markets.
+
+### Blockchain 101
+
+
+What do blockchains do?
+
+Managing fundraising is core functionality of blockchain technology, and many companies have used it to create liquidity in global markets. In 2017, the amount of money invested in cryptocurrency-like tokens grew by more than $2 billion dollars, but many of those fundraises have questionable legal foundation. The risk attendant in "initial coin offering" raise is not appropriate for small business crowdfunding, however blockchain financial technology tools will streamline and create an onramp for small businesses to access cryptocurrency markets for community growth.
+
+A desired solution should:
+
+- Be easy to find and use for small businesses, lawyers and developers
+- Be secure
+- Be replicatable by others 
+- Be inexpensive
+- Provide easy, open-source forensic process validation
+- Hide data content 
+- Satisfy investor eligibility requirements
+- Confirm identity and NC residency of investors 
+- Be aggregatable with other jurisdictions for a multistate raise
+- Automate regulatory filings and reports
+- Save required data in provable structure
+- Track and manage escrow conditions
+- Send payment notices
+- Issue digital object representing entitlement interest
+- Provide on-demand, inexpensive audit of chain of title, custody and process
+- Provide tools for services providers (escrow agent, attorney, financial services, business services)
+- Promote diversity in small business with universally accessible tools
+- Create a safe, legal avenue for cryptocurrency holders to invest in community infrastructure and small business
+- Implement structures for ecosystem growth, for both nonprofit and for-profit actors.
+- Foster B2B economy with blockchain data aggregatioon and distribution of infrastructure costs
+- Foster business innovation with network (intentional) economic communities
+- Increase regulatory compliance while decreasing regulatory burden for small businesses
+- Create infrastructure on which transformative use cases can build
+
+## NCFunder fitness for purpose
+
+Our mission is to lower the bar to access growth capital for small businesses by building and offering legal and compliance tools to execute functions prescribed by the North Carolina PACES Act.  
+
+NCFunder will operate a North Carolina Funding Portal (pending approval from NC Secretary of State). In order to build inexpensive, scalable, secure data processes, NCFunder will offer blockchain-based integration of data storage, contracts and operations that will make regulatory compliance simpler for all ecosystem participants. NCFunder will open-source its legal and code work product in order to foster the unbundling of services and growth of the competitive marketplace. 
+
+### Legal Analysis
+
+Intro to crowdfunding 
+	pre-SEC (why did the SEC have to exist?)
+	Twentieth century
+	Internet Crowdfunding
+		pre-JOBS
+			problems
+		JOBS
+			Problems
+		SEC 147A
+			Problems 
+			Data tools
+			Education
+			Compliance
+			Not very liquid once the stock has been made. This creates a market barrier for traditional investment. The crowdfunding ecosystem has to operate lean in order to operate sustainably. 
+		North Caroliina PACES Act
+
+
+### Systemic Analysis (need diagrams here)
+
+
+Many functional problems with crowdfunding stem from compliance burden in a market that already has higher borrowing costs. A tool that brings these costs down will create a nonzero sum solution that (cite MIT desirables from Aug 2017) 
+
+
+Actors, roles and functions are similar in intrastate crowdfunding to many other systems, but the parameters are unique, for example, funding caps and residency requirements. Many of the processes in a North Carolina funding portal will scale to simplify further small business financing and lending. 
+
+
+- Individual investor
+- Institutional Investor
+- Trust Agent
+	Broker-Dealer
+	Bank 
+	Attorney
+- Money transmitter
+- Funding portal
+- Regulator
+
+
+Defining the functionality of the tech solution.
+
+- Objects
+- Functions	
+- APIs
+
+
+### Blockchain technology provides operational missing link
+
+
+
+
+
+
+
+
 
 Starter outline:
 
