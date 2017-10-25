@@ -262,6 +262,10 @@ https://www.imf.org/external/pubs/ft/fsa/eng/pdf/ch09.pdf
 
 Strengthening framewroks, including tech strategy http://siteresources.worldbank.org/INTJUSFORPOOR/Resources/A2JFrameworkEnglish.pdf 
 
+http://www.cms-lawnow.com/ealerts/2017/08/robotic-process-automation--understanding-the-legal-issues
+
+
+
 
 Seminal US study on access to justice gap, old news: http://www.americanbarfoundation.org/uploads/cms/documents/access_across_america_first_report_of_the_civil_justice_infrastructure_mapping_project.pdf 
 
