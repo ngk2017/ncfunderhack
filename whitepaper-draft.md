@@ -24,7 +24,7 @@ Even as technology advances for legal and financial processes in capital market,
 
 ## Blockchain+crowdfunding is the catalyst for inclusion of small business in global markets.
 
-### Blockchain 101
+### Blockchain 101 //to do
 
 
 What do blockchains do?
