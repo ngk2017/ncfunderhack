@@ -3,39 +3,32 @@
 # Crowdfunding and Blockchain Technology: Forging the Missing Link for Small Business Finance
 
 
-Even as technology advances for legal and financial processes in capital market, main street is forced to conduct much of its business the old-fashioned, slow, expensive way. Crowdfunding's rise and stall brings into focus the long-standing lack of inclusive financial services for small businesses.
+Even as technology advances for legal and financial processes in capital markets, main street is forced to conduct much of its business the old-fashioned, slow, expensive way. Crowdfunding's rise and stall brings into focus the long-standing lack of inclusive financial services for small businesses.
 
 
-## Small business has always had a hard time accessing capital. Crowdfunding is the solutions catalyst.  
+## Small business has always had a hard time accessing growth capital. Crowdfunding is the solutions catalyst.  
 
 
 - Small businesses make up 80% of commercial entities.
 - 80% of small businesses lack access to growth capital, for a known gap of $2.1 trillion.
-- The access to capital gap disproportionately affects women and minorities, who own ____% of small businesses.
+- The access to capital gap disproportionately affects women and minorities, who own more than half of small businesses.
 - The biggest gap in access to capital is for loans less than $1 million.
 - In North Carolina, this means nearly 1 million employers and half of the state's workers are in companies whose growth is hamstrung by lack of tools. 
-- Data aggregation and fintech tools that help large businesses reduce loan and legal costs ____% do not exist for small businesses.
+- Data aggregation and fintech tools that help large businesses reduce loan and legal costs (X%) do not exist for small businesses.
 - 31 US States have enacted intrastate crowdfunding to stimulate access to capital for small businesses.
 - Simultaneously, financial technology has developed secure ways to easily issue, store, prove and manage liquidity in crowdfunded companies.
-- While over $2B has been crowdfunded in 2017 by cryptocurrency companies with little regulatory guidance, small businesses require risk mitigation not currently available for blockchain companies. 
-- Crowdfunding is expected to grow ___ from 2017-2020.
+- While over $2B has been crowdfunded in 2017 by cryptocurrency companies with little regulatory guidance, small businesses require risk mitigation not currently available. 
+- Crowdfunding is expected to grow 27% annually from 2017-2020.
 - Crowdfunding expenses are typically 8-10%. 
 
-
-## Blockchain+crowdfunding is the catalyst for inclusion of small business in global markets.
-
-### Blockchain 101 //to do
+## U.S. Intrastate crowdfunding solves a global problem, trillions of dollars of demonstrated need and exponential network effects. (THIS NEEDS TO BE THE EFFECT OF REFRAME)
 
 
-What do blockchains do?
-
-Managing fundraising is core functionality of blockchain technology, and many companies have used it to create liquidity in global markets. In 2017, the amount of money invested in cryptocurrency-like tokens grew by more than $2 billion dollars, but many of those fundraises have questionable legal foundation. The risk attendant in "initial coin offering" raise is not appropriate for small business crowdfunding, however blockchain financial technology tools will streamline and create an onramp for small businesses to access cryptocurrency markets for community growth.
-
-A desired solution should:
+## A desired solution should:
 
 - Be easy to find and use for small businesses, lawyers and developers
 - Be secure
-- Be replicatable by others 
+- Be replicable by others 
 - Be inexpensive
 - Provide easy, open-source forensic process validation
 - Hide data content 
@@ -113,6 +106,15 @@ Defining the functionality of the tech solution.
 
 
 
+
+## Blockchain+crowdfunding is the catalyst for inclusion of small business in global markets.
+
+### Blockchain 101 //to do
+
+
+What do blockchains do?
+
+Managing fundraising is core functionality of blockchain technology, and many companies have used it to create liquidity in global markets. In 2017, the amount of money invested in cryptocurrency-like tokens grew by more than $2 billion dollars, but many of those fundraises have questionable legal foundation. The risk attendant in "initial coin offering" raise is not appropriate for small business crowdfunding, however blockchain financial technology tools will streamline and create an onramp for small businesses to access cryptocurrency markets for community growth.
 
 
 
